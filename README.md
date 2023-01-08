@@ -30,9 +30,9 @@
 - [x] ~~_Lesson 18 - What's JSX_~~ [2023-01-08]
 - [x] ~~_Lesson 19 - Core components (View, Text, Image, ScrollView, TextInput)_~~ [2023-01-08]
 - [x] ~~_Lesson 20 - Styling in React Native_~~ [2023-01-08]
-- [ ] Lesson 21 - Multiple choice questions UI
-- [ ] Lesson 22 - Custom components
-- [ ] Lesson 23 - Props
+- [x] ~~_Lesson 21 - Multiple choice questions UI_~~ [2023-01-08]
+- [x] ~~_Lesson 22 - Custom components_~~ [2023-01-08]
+- [x] ~~_Lesson 23 - Props_~~ [2023-01-08]
 - [ ] Lesson 24 - PropTypes
 - [ ] Lesson 25 - State
 - [ ] Lesson 26 - Button Component
