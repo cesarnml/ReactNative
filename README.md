@@ -2,15 +2,17 @@
 
 - [React Native Fundamentals Notes](#react-native-fundamentals-notes)
   - [Lessons](#lessons)
+  - [Notes](#notes)
+    - [Lesson 01](#lesson-01)
 
 ## Lessons
 
-- [ ] Lesson 01 - Expo and React Native CLI
-- [ ] Lesson 02 - Windows Terminal
-- [ ] Lesson 03 - Git
-- [ ] Lesson 04 - NodeJS
-- [ ] Lesson 05 - Expo
-- [ ] Lesson 06 - Visual Studio Code
+- [x] ~~_Lesson 01 - Expo and React Native CLI_~~ [2023-01-07]
+- [x] ~~_Lesson 02 - Windows Terminal_~~ [2023-01-07]
+- [x] ~~_Lesson 03 - Git_~~ [2023-01-07]
+- [x] ~~_Lesson 04 - NodeJS_~~ [2023-01-07]
+- [x] ~~_Lesson 05 - Expo_~~ [2023-01-07]
+- [x] ~~_Lesson 06 - Visual Studio Code_~~ [2023-01-07]
 - [ ] Lesson 07 - React Native CLI
 - [ ] Lesson 08 - iTerm, Homebrew, Git
 - [ ] Lesson 09 - Node & npm
@@ -38,3 +40,12 @@
 - [ ] Lesson 31 - Data persistence with AsyncStorage
 - [ ] Lesson 32 - Assignment
 - [ ] Lesson 33 - Assignment Solution
+
+## Notes
+
+### Lesson 01
+
+- Three ways to develop React Native Apps
+  1. [Snack Expo](https://snack.expo.dev/)
+  2. Expo CLI
+  3. React Native CLI
