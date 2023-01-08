@@ -5,6 +5,8 @@
   - [Notes](#notes)
     - [Lesson 01](#lesson-01)
     - [Lesson 01-13 (Bunch of Basic Tool Installs)](#lesson-01-13-bunch-of-basic-tool-installs)
+    - [Lesson 14](#lesson-14)
+    - [Lesson 15](#lesson-15)
 
 ## Lessons
 
@@ -21,13 +23,13 @@
 - [x] ~~_Lesson 11 - Visual Studio Code_~~ [2023-01-08]
 - [x] ~~_Lesson 12 - Xcode_~~ [2023-01-08]
 - [x] ~~_Lesson 13 - React Native CLI_~~ [2023-01-08]
-- [ ] Lesson 14 - What are we going to build?
-- [ ] Lesson 15 - Initialize the project
-- [ ] Lesson 16 - Debugging
-- [ ] Lesson 17 - Your first component
-- [ ] Lesson 18 - What's JSX
-- [ ] Lesson 19 - Core components (View, Text, Image, ScrollView, TextInput)
-- [ ] Lesson 20 - Styling in React Native
+- [x] ~~_Lesson 14 - What are we going to build?_~~ [2023-01-08]
+- [x] ~~_Lesson 15 - Initialize the project_~~ [2023-01-08]
+- [x] ~~_Lesson 16 - Debugging_~~ [2023-01-08]
+- [x] ~~_Lesson 17 - Your first component_~~ [2023-01-08]
+- [x] ~~_Lesson 18 - What's JSX_~~ [2023-01-08]
+- [x] ~~_Lesson 19 - Core components (View, Text, Image, ScrollView, TextInput)_~~ [2023-01-08]
+- [x] ~~_Lesson 20 - Styling in React Native_~~ [2023-01-08]
 - [ ] Lesson 21 - Multiple choice questions UI
 - [ ] Lesson 22 - Custom components
 - [ ] Lesson 23 - Props
@@ -54,3 +56,11 @@
 ### Lesson 01-13 (Bunch of Basic Tool Installs)
 
 - Nothing learned here.
+
+### Lesson 14
+
+- General intro to code-along project
+
+### Lesson 15
+
+- NR
