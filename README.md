@@ -34,7 +34,7 @@
 - [x] ~~_Lesson 22 - Custom components_~~ [2023-01-08]
 - [x] ~~_Lesson 23 - Props_~~ [2023-01-08]
 - [x] ~~_Lesson 24 - PropTypes_~~ [2023-01-08]
-- [ ] Lesson 25 - State
+- [x] ~~_Lesson 25 - State_~~ [2023-01-08]
 - [ ] Lesson 26 - Button Component
 - [ ] Lesson 27 - Quiz Logic
 - [ ] Lesson 28 - Open ended questions
