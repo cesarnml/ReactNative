@@ -33,7 +33,7 @@
 - [x] ~~_Lesson 21 - Multiple choice questions UI_~~ [2023-01-08]
 - [x] ~~_Lesson 22 - Custom components_~~ [2023-01-08]
 - [x] ~~_Lesson 23 - Props_~~ [2023-01-08]
-- [ ] Lesson 24 - PropTypes
+- [x] ~~_Lesson 24 - PropTypes_~~ [2023-01-08]
 - [ ] Lesson 25 - State
 - [ ] Lesson 26 - Button Component
 - [ ] Lesson 27 - Quiz Logic
