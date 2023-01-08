@@ -4,6 +4,7 @@
   - [Lessons](#lessons)
   - [Notes](#notes)
     - [Lesson 01](#lesson-01)
+    - [Lesson 01-13 (Bunch of Basic Tool Installs)](#lesson-01-13-bunch-of-basic-tool-installs)
 
 ## Lessons
 
@@ -13,13 +14,13 @@
 - [x] ~~_Lesson 04 - NodeJS_~~ [2023-01-07]
 - [x] ~~_Lesson 05 - Expo_~~ [2023-01-07]
 - [x] ~~_Lesson 06 - Visual Studio Code_~~ [2023-01-07]
-- [ ] Lesson 07 - React Native CLI
-- [ ] Lesson 08 - iTerm, Homebrew, Git
-- [ ] Lesson 09 - Node & npm
-- [ ] Lesson 10 - Expo CLI
-- [ ] Lesson 11 - Visual Studio Code
-- [ ] Lesson 12 - Xcode
-- [ ] Lesson 13 - React Native CLI
+- [x] ~~_Lesson 07 - React Native CLI_~~ [2023-01-08]
+- [x] ~~_Lesson 08 - iTerm, Homebrew, Git_~~ [2023-01-08]
+- [x] ~~_Lesson 09 - Node & npm_~~ [2023-01-08]
+- [x] ~~_Lesson 10 - Expo CLI_~~ [2023-01-08]
+- [x] ~~_Lesson 11 - Visual Studio Code_~~ [2023-01-08]
+- [x] ~~_Lesson 12 - Xcode_~~ [2023-01-08]
+- [x] ~~_Lesson 13 - React Native CLI_~~ [2023-01-08]
 - [ ] Lesson 14 - What are we going to build?
 - [ ] Lesson 15 - Initialize the project
 - [ ] Lesson 16 - Debugging
@@ -49,3 +50,7 @@
   1. [Snack Expo](https://snack.expo.dev/)
   2. Expo CLI
   3. React Native CLI
+
+### Lesson 01-13 (Bunch of Basic Tool Installs)
+
+- Nothing learned here.
