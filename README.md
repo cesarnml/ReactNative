@@ -35,13 +35,13 @@
 - [x] ~~_Lesson 23 - Props_~~ [2023-01-08]
 - [x] ~~_Lesson 24 - PropTypes_~~ [2023-01-08]
 - [x] ~~_Lesson 25 - State_~~ [2023-01-08]
-- [ ] Lesson 26 - Button Component
-- [ ] Lesson 27 - Quiz Logic
-- [ ] Lesson 28 - Open ended questions
-- [ ] Lesson 29 - Progress bar component
-- [ ] Lesson 30 - Live system
-- [ ] Lesson 31 - Data persistence with AsyncStorage
-- [ ] Lesson 32 - Assignment
+- [x] ~~_Lesson 26 - Button Component_~~ [2023-01-09]
+- [x] ~~_Lesson 27 - Quiz Logic_~~ [2023-01-09]
+- [x] ~~_Lesson 28 - Open ended questions_~~ [2023-01-09]
+- [x] ~~_Lesson 29 - Progress bar component_~~ [2023-01-09]
+- [x] ~~_Lesson 30 - Live system_~~ [2023-01-09]
+- [x] ~~_Lesson 31 - Data persistence with AsyncStorage_~~ [2023-01-09]
+- [x] ~~_Lesson 32 - Assignment_~~ [2023-01-09]
 - [ ] Lesson 33 - Assignment Solution
 
 ## Notes
