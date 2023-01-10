@@ -42,7 +42,7 @@
 - [x] ~~_Lesson 30 - Live system_~~ [2023-01-09]
 - [x] ~~_Lesson 31 - Data persistence with AsyncStorage_~~ [2023-01-09]
 - [x] ~~_Lesson 32 - Assignment_~~ [2023-01-09]
-- [ ] Lesson 33 - Assignment Solution
+- [x] ~~_Lesson 33 - Assignment Solution_~~ [2023-01-10]
 
 ## Notes
 
